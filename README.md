@@ -1,16 +1,16 @@
 # FinOps Foundation SIG Engineering
 
-Primary Authors: tbc
+Primary Authors: Mike Fuller
 
 Reviewed and Contributed to by: tbc
 
 # Introduction
 
-tbc
+The engineering SIG within the FinOps foundation is tasked with identifing how FinOps best fits into engineering practices. There are expectations put upon engineers by the FinOps practitioner which need to be sympathetic to the engineers perspective and well understood by all.
 
 # Mission Statement
 
-tbc
+The SIG Engineering focuses on topics pertaining to how FinOps fits into the operation of services by engineering/DevOps teams. Additionally, it produces supporting material and best practices for end-users and provides guidance and coordination for FinOps Foundation projects working within the SIG’s scope.
 
 1. **Clarify and inform.** Provide valuable and objective information to the TAC, End Users and Projects of the FinOps Foundation regarding areas considered in-scope. Strengthen the project ecosystem to meet the needs of end users and project contributors. Educate and inform users with unbiased, effective, and practically useful information.
 2. **Collaborate and interrelate.** Effectively interface with other related groups internal and external to the FinOps Foundation and connect the dots to facilitate meaningful collaborative progression of relevant topics. Engage more communities and create an on-ramp to effective TAC contribution &amp; recognition.
@@ -19,11 +19,16 @@ tbc
 
 ## In Scope
 
-TBC
+* Foster, review and grow the ecosystem of engineering related FinOps projects.
+* Identify and report gaps in the F2's project portfolio on topics of FinOps in Engineering to the TAC and the wider F2 community.
+* Collect, curate, champion, and disseminate patterns and current best practices related to the operation of FinOps practices in engineering that are effective and actionable.
+* Educate and inform users with unbiased, accurate, and pertinent information.
+* Provide and maintain a vendor-neutral venue for relevant thought validation, discussion, and project feedback.
+* Provide a ladder for community members to become involved with the technical oversight of projects within the SIG's scope in an open, transparent, and inclusive way.
 
 ### Current FinOps Foundation Engineering Working Groups
 
-TBC
+None currently active
 
 ## Out of Scope
 
@@ -31,7 +36,10 @@ Generally anything not considered in scope.
 
 # Overlap and Relations with other Groups and Projects
 
-TBC
+Finance SIG - Collaboration between Engineers and Finance.
+Education SIG - FinOps training specific for Engineers
+Containers SIG - Operating container clusters with a FinOps Focus
+
 
 # Responsibilities and Deliverables
 
@@ -47,14 +55,14 @@ Clarify and further concepts of engineering within the FinOps scope.
 
 # Governance and Operations
 
-This SIG follows the [standard operating model](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#operating-model) provided by the TOC unless otherwise stated here.
+This SIG follows the [standard operating model](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#operating-model) provided by the TAC unless otherwise stated here.
 
 # Operating Model
 
-## Chairs:
+## Chairs: [Open for nominations]
 
-- TOC Liaison: tbc
-- Chairs: tbc
+- TAC Liaison: Mike Fuller
+- Tech Leads: [Open for nominations]
 
 In accordance with the [elections and terms](https://github.com/finopsfoundation/tac/blob/master/sigs/readme.md#elections)
 
